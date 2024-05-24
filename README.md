@@ -307,6 +307,8 @@ dns.switch.ch
 
 [https://ipw.cn/](https://ipw.cn/)
 
+[https://www.ip138.com/](https://www.ip138.com/)
+
 [https://ipv6-test.com/](https://ipv6-test.com/)
 
 [https://ip.chinaz.com/](https://ip.chinaz.com/)
