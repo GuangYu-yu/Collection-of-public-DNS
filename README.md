@@ -287,6 +287,22 @@ dns.switch.ch
 
 [https://www.everpro.hk/tools/dns/](https://www.everpro.hk/tools/dns/)
 
+[https://public-dns.info/](https://public-dns.info/)
+
+[https://www.lifewire.com/free-and-public-dns-servers-2626062](https://www.lifewire.com/free-and-public-dns-servers-2626062)
+
+[https://dnschecker.org/public-dns](https://dnschecker.org/public-dns)
+
+[https://gist.github.com/mutin-sa/5dcbd35ee436eb629db7872581093bc5](https://gist.github.com/mutin-sa/5dcbd35ee436eb629db7872581093bc5)
+
+[https://www.ipfire.org/docs/dns/public-servers](https://www.ipfire.org/docs/dns/public-servers)
+
+[https://publicdnsserver.com/](https://publicdnsserver.com/)
+
+[https://www.dnsperf.com/#!dns-resolvers](https://www.dnsperf.com/#!dns-resolvers)
+
+[https://www.publicdns.xyz/](https://www.publicdns.xyz/)
+
 ## 检测工具
 
 [https://ip.skk.moe/](https://ip.skk.moe/)
