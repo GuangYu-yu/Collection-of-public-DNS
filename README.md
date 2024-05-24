@@ -4,7 +4,7 @@
 
 ## 端口-53 协议-udp 地区-CN
 
-114
+114（不推荐）
 ```
 114.114.114.114
 ```
@@ -16,6 +16,14 @@
 
 ```
 211.137.96.205
+```
+
+```
+2409:8062:2000:1::1
+```
+
+```
+2409:8062:2000:1::2
 ```
 
 四川联通
@@ -32,6 +40,14 @@
 61.139.2.69
 ```
 
+```
+240e:56:4000::218
+```
+
+```
+240e:56:4000:8000::69
+```
+
 阿里
 ```
 223.5.5.5
@@ -45,6 +61,10 @@
 2400:3200::1
 ```
 
+```
+2400:3200:baba::1
+```
+
 腾讯
 ```
 119.29.29.29
@@ -56,6 +76,10 @@
 
 ```
 2402:4e00::
+```
+
+```
+2402:4e00:1::
 ```
 
 ## 端口-853 协议-tls 地区-Global 和 端口-443 协议-https 地区-Global
@@ -175,16 +199,16 @@ dns.cfiec.net
 
 > 基于 IPv6 的任播 DNS 服务，具有强大的安全功能，可抵御间谍软件和恶意网站。它支持 DNS64 仅为 IPv6 用户提供域名解析。
 
-ControlD 无过滤服务
+*ControlD 无过滤服务
 ```
-p0.freedns.controld.com
+uncensored.freedns.controld.com
 ```
 
 >ControlD 是一种具有代理功能的可自定义 DNS 服务。这意味着它不仅可以阻止内容（广告、色情等），还可以解锁网站和服务。
 
 Hurricane Electric Public Recursor
 ```
-https://ordns.he.net/dns-query
+ordns.he.net
 ```
 
 > Hurricane Electric Public Recursor 是 Hurricane Electric 提供的免费替代 DNS 服务，带有任意广播功能。
@@ -196,7 +220,7 @@ doh.mullvad.net
 
 >Mullvad提供可公开访问的DNS，QNAME最小化，端点位于澳大利亚、德国、新加坡、瑞典、英国和美国（纽约和洛杉矶）。
 
-NextDNS
+*NextDNS
 ```
 anycast.dns.nextdns.io
 ```
@@ -207,9 +231,9 @@ dns.nextdns.io
 
 > NextDNS 除了提供具有可选日志记录的免费增值可配置过滤解析器外，还提供可公开访问的非过滤解析器，无需日志记录。
 
-DNS0.eu
+*DNS0.eu
 ```
-zero.dns0.eu
+open.dns0.eu
 ```
 
 > dns0.eu 是一个免费、主权且符合 GDPR 的递归 DNS 解析器，非常注重安全，以保护欧盟的公民和组织。
@@ -302,6 +326,8 @@ dns.switch.ch
 [https://www.dnsperf.com/#!dns-resolvers](https://www.dnsperf.com/#!dns-resolvers)
 
 [https://www.publicdns.xyz/](https://www.publicdns.xyz/)
+
+[https://public-dns.tech.blog/zh-cn/](https://public-dns.tech.blog/zh-cn/)
 
 ## 检测工具
 
