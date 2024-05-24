@@ -333,6 +333,8 @@ dns.switch.ch
 
 [https://public-dns.tech.blog/zh-cn/](https://public-dns.tech.blog/zh-cn/)
 
+[https://www.iewb.net/content/html/dns.html](https://www.iewb.net/content/html/dns.html)
+
 ## 检测工具
 
 [https://ip.skk.moe/](https://ip.skk.moe/)
