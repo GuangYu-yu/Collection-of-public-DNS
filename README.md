@@ -275,10 +275,40 @@ dns.switch.ch
 
 >SWITCH DNS是 switch.ch 提供的瑞士公共DNS服务。
 
-## 参考
+## 更多DNS
 
 [https://dns.icoa.cn/](https://dns.icoa.cn/)
 
 [https://adguard-dns.io/kb/zh-CN/general/dns-providers/#dnswatchgo](https://adguard-dns.io/kb/zh-CN/general/dns-providers/#dnswatchgo)
 
 [https://dns.iui.im/](https://dns.iui.im/)
+
+[https://heiok.com/2013/06/10/%E6%B8%AF%E6%BE%B3%E5%8F%B0%E5%8F%8A%E5%85%AC%E5%85%B1DNS%E6%B1%87%E6%80%BB/](https://heiok.com/2013/06/10/%E6%B8%AF%E6%BE%B3%E5%8F%B0%E5%8F%8A%E5%85%AC%E5%85%B1DNS%E6%B1%87%E6%80%BB/)
+
+[https://www.everpro.hk/tools/dns/](https://www.everpro.hk/tools/dns/)
+
+## 检测工具
+
+[https://ip.skk.moe/](https://ip.skk.moe/)
+
+[https://www.itdog.cn/](https://www.itdog.cn/)
+
+[https://iplark.com/myip](https://iplark.com/myip)
+
+[https://ip.sb/](https://ip.sb/)
+
+[https://ip6.me/](https://ip6.me/)
+
+[https://tool.lu/ip/](https://tool.lu/ip/)
+
+[https://testipv6.cn/](https://testipv6.cn/)
+
+[https://www.test-ipv6.com/](https://www.test-ipv6.com/)
+
+[https://ipw.cn/](https://ipw.cn/)
+
+[https://ipv6-test.com/](https://ipv6-test.com/)
+
+[https://ip.chinaz.com/](https://ip.chinaz.com/)
+
+[https://ping0.cc/](https://ping0.cc/)
