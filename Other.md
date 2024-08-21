@@ -39,4 +39,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
+
 https://jiang.netlify.app
