@@ -36,6 +36,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Barabama/FreeNodes/
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/nodefree.txt
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/merged.txt
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 
