@@ -37,9 +37,16 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Barabama/FreeNodes/
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/merged.txt
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/subscribe/protocols/reality
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
 
 https://jiang.netlify.app
+
+https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml
+https://raw.githubusercontent.com/vxiaov/free_proxies/main/links.txt
+https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/mixed_iran.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list1.txt
+https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt
